@@ -1,0 +1,7 @@
+{
+    "title":"Multitouch Slide Browser",
+    "id":"slidebrowser.example.kinoma.marvell.com",
+    "Create":{
+        "main":"src/main"
+    },
+}
